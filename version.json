@@ -1,10 +1,4 @@
 {
-  "version": "none",
-  "updated": "Belum ada update",
-  "notes": [
-    "belum ada versi rilis dari developer.",
-    "tunggu update pertama dari bot developer."
-  ],
-  "status": "none",
-  "message": "belum ada update yang tersedia saat ini."
+  "current_version": "25.0",
+  "latest_version": "25.0"
 }
